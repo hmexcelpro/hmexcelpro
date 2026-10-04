@@ -1,4 +1,4 @@
-Hi, I'm HMexcelpro 👋
+# Hi, I'm HMexcelpro 👋
 
 Excel • Data Analysis • Data Visualization • Dashboard Design • Business Reporting
 
@@ -6,7 +6,7 @@ I create practical Excel solutions for business reporting, financial analysis, i
 
 ---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 I work with Microsoft Excel to turn raw business data into clear, structured, and useful reports.
 
@@ -24,35 +24,35 @@ My portfolio focuses on practical business solutions such as:
 
 ---
 
-📊 Portfolio Projects
+## 📊 Portfolio Projects
 
-📈 Excel Business Performance Dashboard
+### 📈 Excel Business Performance Dashboard
 
 Sales analysis, profitability tracking, KPI monitoring, salesperson performance, product analysis, and inventory reporting.
 
-"🔗 View Project" (https://github.com/hmexcelpro/excel-business-sales-dashboard)
+[🔗 View Project](https://github.com/hmexcelpro/excel-business-sales-dashboard)
 
-💰 Excel Financial & Expense Dashboard
+### 💰 Excel Financial & Expense Dashboard
 
 Income and expense tracking, profitability analysis, budget monitoring, cash flow reporting, and financial KPIs.
 
-"🔗 View Project" (https://github.com/hmexcelpro/excel-financial-expense-dashboard)
+[🔗 View Project](https://github.com/hmexcelpro/excel-financial-expense-dashboard)
 
-📦 Excel Inventory & Stock Management System
+### 📦 Excel Inventory & Stock Management System
 
 Stock IN/OUT tracking, current inventory calculation, reorder monitoring, inventory valuation, and management reporting.
 
-"🔗 View Project" (https://github.com/hmexcelpro/excel-inventory-management-system)
+[🔗 View Project](https://github.com/hmexcelpro/excel-inventory-management-system)
 
-👥 Excel HR & Employee Performance Dashboard
+### 👥 Excel HR & Employee Performance Dashboard
 
 Workforce analysis, attendance tracking, employee performance monitoring, HR KPI reporting, and management insights.
 
-"🔗 View Project" (https://github.com/hmexcelpro/excel-hr-employee-performance-dashboard)
+[🔗 View Project](https://github.com/hmexcelpro/excel-hr-employee-performance-dashboard)
 
 ---
 
-🌐 English & Persian
+## 🌐 English & Persian
 
 Portfolio projects are available in English and Persian versions with bilingual documentation.
 
@@ -60,7 +60,7 @@ Portfolio projects are available in English and Persian versions with bilingual 
 
 ---
 
-💼 Freelance Services
+## 💼 Freelance Services
 
 I can help with:
 
@@ -77,12 +77,12 @@ I can help with:
 
 ---
 
-🛠️ Skills
+## 🛠️ Skills
 
 Microsoft Excel • Data Analysis • Data Processing • Data Visualization • Dashboard Design • KPI Reporting • Business Reporting
 
 ---
 
-📫 HMexcelpro
+## 📫 HMexcelpro
 
 Open to freelance Excel and data analysis projects.
