@@ -30,25 +30,25 @@ My portfolio focuses on practical business solutions such as:
 
 Sales analysis, profitability tracking, KPI monitoring, salesperson performance, product analysis, and inventory reporting.
 
-🔗 "View Project" (https://github.com/hmexcelpro/excel-business-sales-dashboard)
+"🔗 View Project" (https://github.com/hmexcelpro/excel-business-sales-dashboard)
 
 💰 Excel Financial & Expense Dashboard
 
 Income and expense tracking, profitability analysis, budget monitoring, cash flow reporting, and financial KPIs.
 
-🔗 "View Project" (https://github.com/hmexcelpro/excel-financial-expense-dashboard)
+"🔗 View Project" (https://github.com/hmexcelpro/excel-financial-expense-dashboard)
 
 📦 Excel Inventory & Stock Management System
 
 Stock IN/OUT tracking, current inventory calculation, reorder monitoring, inventory valuation, and management reporting.
 
-🔗 "View Project" (https://github.com/hmexcelpro/excel-inventory-management-system)
+"🔗 View Project" (https://github.com/hmexcelpro/excel-inventory-management-system)
 
 👥 Excel HR & Employee Performance Dashboard
 
 Workforce analysis, attendance tracking, employee performance monitoring, HR KPI reporting, and management insights.
 
-🔗 "View Project" (https://github.com/hmexcelpro/excel-hr-employee-performance-dashboard)
+"🔗 View Project" (https://github.com/hmexcelpro/excel-hr-employee-performance-dashboard)
 
 ---
 
